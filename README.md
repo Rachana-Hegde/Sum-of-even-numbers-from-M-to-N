@@ -1,6 +1,3 @@
-
----
-
 # ➕ Sum of Even Numbers from M to N – Python Program
 
 This is a simple Python program that calculates the **sum of all even numbers** between two user-defined integers `M` and `N` (inclusive). It’s a great practice task for using loops and conditionals.
