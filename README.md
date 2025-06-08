@@ -60,7 +60,7 @@ python sum_even.py
   * Count of even/odd numbers
   * Multiples of a given number
 
-## 📄 License
+## 📬 Contact  
 
-This program is open-source under the **MIT License**.
-Feel free to use, learn, and modify!
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)
