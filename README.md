@@ -1,4 +1,3 @@
-Here’s a neat and beginner-friendly **README.md** for your **Sum of Even Numbers from M to N** Python program:
 
 ---
 
